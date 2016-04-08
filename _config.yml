@@ -1,0 +1,28 @@
+name: hadoop
+favicon: null
+layout_spectrum: 0.5475462609902024
+typography_spectrum: 0.12565204873681068
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.45551283843815327
+  lightness: 0.7964065275155008
+  saturation: 0.25297486456111073
+  rhythmicContrast: 0.09160109260119498
+purpose: []
